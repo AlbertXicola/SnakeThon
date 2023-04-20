@@ -18,7 +18,7 @@ VerdeOsc = (0, 225, 3)
 clasic = pygame.display.set_mode((1200,900))
 
 pygame.display.set_caption("SNAKE")
-icon = pygame.image.load('Logo.png')
+icon = pygame.image.load('images/Logo.png')
 pygame.display.set_icon(icon)
 
 
@@ -37,13 +37,13 @@ while True:
 
     #LINEAS BORDE (650x650)
     pygame.surface.Surface
-    fondo = pygame.image.load("fondo.png")
+    fondo = pygame.image.load("images/fondo.png")
     posX= 0
     posY= 0
     clasic.blit(fondo,(posX,posY))
     
     
-    serpi = pygame.image.load("serpi.png")
+    serpi = pygame.image.load("images/serpi.png")
     posX= 397
     posY= 423
     clasic.blit(serpi,(posX,posY))
