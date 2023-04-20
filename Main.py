@@ -7,7 +7,7 @@ width, height = 800, 600
 surface = pygame.display.set_mode((width, height))
 
 # Carga la imagen
-image = pygame.image.load("fondo.png")
+image = pygame.image.load("images/fondo.png")
 
 # Dibuja una línea en la superficie
 start_pos = (0, 300)
