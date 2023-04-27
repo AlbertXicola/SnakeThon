@@ -14,15 +14,15 @@ posX, posY =randint(1,400), randint(1,300)
 #posicionar la serpiente en el mapeado inicial:
 pygame.draw.rect(ventana,colorFigura, (posX,posY,40,40))
 #indicador de donde esta la serpiente y direccion a la que va:
-    elif evento.type== pygame.KEYDOWN:
-        if evento.key == K_LEFT:
-            posX-=velocidad
-            if posX<0:
-                posX=0
-        elif evento.key == K_RIGHT:
-            posX+=velocidad
-            if posX<500-40:
-                    posX=500-40
+if evento.type== pygame.KEYDOWN:
+    if evento.key == K_LEFT:
+        posX-=velocidad
+    if posX<0:
+        posX=0
+    elif evento.key == K_RIGHT:
+        posX+=velocidad
+        if posX<500-40:
+                posX=500-40
         elif evento.key == K_UP:
             posY-=velocidad
             if posY<0:
