@@ -23,7 +23,7 @@ pygame.display.set_icon(icon)
 
 
 
-#BUCE PANTALLA
+#BUCE PANTALLAS
 while True:
     for evento in pygame.event.get():
         #SI SE PULSA LA X SE CIERRA
