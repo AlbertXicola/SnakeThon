@@ -2,7 +2,6 @@ import pygame, sys
 from pygame.locals import *
 from random import randint
 from juego import abrir_juego
-
 # INICIACION DE PYGAME
 pygame.init()
 
@@ -47,6 +46,8 @@ coordstextoversion = (1100, 880)
 botonquit = pygame.Rect(450,720,300, 85)
 #                    posicion  ,  tamaño
 botonplay = pygame.Rect(450,500,300, 85)
+#                    posicion  ,  tamaño
+botonranking = pygame.Rect(450,600,300, 85)
 
 
 
@@ -70,6 +71,10 @@ while True:
         if evento.type == pygame.MOUSEBUTTONDOWN:
             if botonplay.collidepoint(evento.pos):
                 abrir_juego()
+         # Verifica si se hizo clic en el botón
+        if evento.type == pygame.MOUSEBUTTONDOWN:
+            if botonranking.collidepoint(evento.pos):
+                cargar_ranking()
     #SE PUEDE DESGLOSaR PERO ES MEJOR ASI 
 
 
