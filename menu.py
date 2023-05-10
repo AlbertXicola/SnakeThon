@@ -1,7 +1,7 @@
 import pygame, sys
 from pygame.locals import *
 from random import randint
-from juego import abrir_juego
+from juego import abrir_juego   
 # INICIACION DE PYGAME
 pygame.init()
 
