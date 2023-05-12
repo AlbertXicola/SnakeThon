@@ -97,4 +97,3 @@ while True:
     pygame.display.update()
     reloj.tick(fps)
 
-
