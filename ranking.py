@@ -41,7 +41,7 @@ def abrir_ranking():
 
     # EL MARCO QUE SI PULSAS DENTRO, PASA LO QUE DICE EN EL BUCLE
     #                    posicion  ,  tamaño
-    botonquit = pygame.Rect(700,800,300, 85)
+    botonquit = pygame.Rect(150,700,300, 85)
 
 
 
