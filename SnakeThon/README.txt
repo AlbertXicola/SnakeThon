@@ -12,6 +12,7 @@ de todos los tiempos!
 
 
 Notas:
+!TENER DIVERS DE AUDIO Y PYGAME INSTALADO!
 
 Es una beta, hay pequeños errores y un par de bugs.
 le hemos dado todo el cariño y empeño para hacer este juego.
