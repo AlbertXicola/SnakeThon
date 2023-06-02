@@ -3,7 +3,7 @@
 SNAKETHON   v3.1   https://github.com/AlbertXicola/SnakeThon
 =========
 
-Hola Jugador, biscas retos y juegos indies??
+Hola Jugador, buscas retos y juegos indies??
 Este es tu oportunidad, hoy se estrena Snakethon!!
 La beta de lo que sera en unfuturo el mejor Snake
 de todos los tiempos!
@@ -12,7 +12,7 @@ de todos los tiempos!
 
 
 Notas:
-!TENER DIVERS DE AUDIO Y PYGAME INSTALADO!
+!TENER DIVERS DE AUDIO!
 
 Es una beta, hay pequeños errores y un par de bugs.
 le hemos dado todo el cariño y empeño para hacer este juego.
