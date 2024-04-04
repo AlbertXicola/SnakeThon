@@ -9,7 +9,11 @@ Este es tu oportunidad, hoy se estrena Snakethon!!
 La beta de lo que sera en un futuro el mejor Snake
 de todos los tiempos!
 
+
+
+
 INICIAR JUEGO -> SnakeThon-main\SnakeThon\Data\dist\SnakeThon.exe
+__________________________________________________________________
 
 
 
@@ -24,11 +28,16 @@ Le hemos dado todo el cariño y empeño para hacer este juego.
 Si has jugado mucho y tienes muchas partidas, elimina registros
 del archivo puntuación.txt -> 
 
-Eliminar Registros -> SnakeThon-main\SnakeThon\Data\dist\puntuación.txt
 
-Cualquier duda problema o ayuda para desarrollar este juego
-no dude en contactar.
-(CF2022266@cesf.365.es)
+
+
+Eliminar Registros -> SnakeThon-main\SnakeThon\Data\dist\puntuación.txt
+_______________________________________________________________________
+
+
+
+Cualquier duda problema o ayuda para la mejora del programano dude en contactar.
+CF2022266@cesf.365.es
 
 Equipo de Snakethon
 - Daniel Reiz Tamayo
