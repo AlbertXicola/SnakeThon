@@ -22,7 +22,9 @@ No está optimizado, y es un proyecto de curso ( no esperes el mejor juego de sn
 Le hemos dado todo el cariño y empeño para hacer este juego.
 
 Si has jugado mucho y tienes muchas partidas, elimina registros
-del archivo puntuación.txt -> SnakeThon-main\SnakeThon\Data\dist\puntuación.txt
+del archivo puntuación.txt -> 
+
+Eliminar Registros -> SnakeThon-main\SnakeThon\Data\dist\puntuación.txt
 
 Cualquier duda problema o ayuda para desarrollar este juego
 no dude en contactar.
